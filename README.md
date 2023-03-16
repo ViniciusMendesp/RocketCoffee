@@ -15,7 +15,6 @@ Neste desafio você deverá desenvolver uma homepage para uma marca de café.
 
 # ✅ **Requisitos**
 
----
 
 Neste desafio você vai construir uma homepage para uma marca de café*.* Caso você ainda não tenha feito os cursos do Discover ou queira fazer uma revisão, segue abaixo uma lista dos cursos e documentações que podem te ajudar a resolver este desafio.
 
