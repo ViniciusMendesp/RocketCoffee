@@ -4,7 +4,8 @@
 
 Neste desafio você deverá desenvolver uma homepage para uma marca de café.
 
-#Layout 
+# **Layout**
+
 ![preview](https://user-images.githubusercontent.com/63562960/225726410-27d369b7-3636-40d3-9130-216ab2eebaee.png)
 
 🚀 **Techs**
