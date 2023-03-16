@@ -8,7 +8,7 @@ Neste desafio você deverá desenvolver uma homepage para uma marca de café.
 
 ![preview](https://user-images.githubusercontent.com/63562960/225726410-27d369b7-3636-40d3-9130-216ab2eebaee.png)
 
-🚀 **Techs**
+# 🚀 **Techs**
 
 - [Vite](https://vitejs.dev/)
 - [StyledComponents](https://styled-components.com/)
@@ -28,7 +28,7 @@ Neste desafio você vai construir uma homepage para uma marca de café*.* Caso v
 - [O Guia Estelar de JavaScript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
 - [Pilotando com a DOM](https://app.rocketseat.com.br/node/pilotando-com-a-dom)
 
-**Requisitos para o desafio:**
+# **Requisitos para o desafio:**
 
 - Seguir o layout do Figma.
 - Deixar o layout responsivo conforme o Figma.
