@@ -14,7 +14,6 @@ export const MainTitleMobileContainer = styled.div`
   align-items: center;
   margin: 5rem 1.875rem;
   padding: 22px;n
-  text-align: center;
 `;
 
 export const MainTitleMobile = styled.h1`
@@ -24,6 +23,7 @@ export const MainTitleMobile = styled.h1`
   font-weight: 600;
   font-size: 1.875rem;
   line-height: 40.98px;
+  text-align: center;
 `;
 
 export const ButtonMain = styled.button`

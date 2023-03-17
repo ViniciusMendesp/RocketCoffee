@@ -14,7 +14,7 @@ export function App() {
 
   useEffect(() => {
     function handleResize() {
-      setIsMobile(window.innerWidth < 768);
+      setIsMobile(window.innerWidth < 1000);
     }
 
     handleResize();
@@ -24,7 +24,7 @@ export function App() {
 
   useEffect(() => {
     function handleResize() {
-      setIsMobileMain(window.innerWidth < 768);
+      setIsMobileMain(window.innerWidth < 1000);
     }
 
     handleResize();
