@@ -25,6 +25,11 @@ export const ButtonMain = styled.button`
   justify-content: center;
 
   cursor: pointer;
+
+  &:hover {
+    background-color: var(--button);
+    transition: 0.5s;
+  }
 `;
 
 export const ButtonText = styled.span`

@@ -40,6 +40,11 @@ export const ButtonMain = styled.button`
   margin-bottom: 6.25rem;
 
   cursor: pointer;
+
+  &:hover {
+    background-color: var(--button);
+    transition: 0.5s;
+  }
 `;
 
 export const ButtonText = styled.span`
